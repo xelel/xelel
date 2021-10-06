@@ -15,9 +15,5 @@
 
 ---
 
-#
-
-[![Linkedin: Marcell](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=marcellrl/)](https://www.linkedin.com/in/marcellrl/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcell.leao@gmail.com)](mailto:marcell.leao@gmail.com)
 [![GitHub Marcell]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/xelel)
 
