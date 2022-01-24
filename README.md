@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [V4 Company](https://www.enacom.com.br/)
 
-- 🌱 I’m currently learning **Statistics, Frameworks, Cloud computing, Big Data and APIs Tools**
+- 🌱 I’m currently learning **Frameworks, Cloud computing, Big Data and APIs Tools**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
