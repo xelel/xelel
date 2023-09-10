@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcell Reis Leal</h1>
-<h3 align="center">A passionate Python Developer from Brazil</h3>
+<h3 align="center">A passionate Python Developer/Data Architect from Brazil</h3>
 
 - 🔭 I’m currently working on [IN10](https://www.t10.digital/)
 
